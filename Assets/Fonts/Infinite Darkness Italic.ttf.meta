@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: eda3c9a909d27384f8a330b3a14a51f4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Infinite Darkness
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e389eebf3e9009946b8a5e11d9161272, type: 3}
+  - {fileID: 12800000, guid: 88d503460ca5aed4b986983bd54aeaa7, type: 3}
+  - {fileID: 12800000, guid: 84880aac76134ff448930e238f46d7c8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
